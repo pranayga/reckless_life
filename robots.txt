@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pragarg.github.io/reckless_life/sitemap.xml
