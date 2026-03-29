@@ -3,10 +3,34 @@
     <title>recklesslife.uk</title>
     <link href="https://pranayga.github.io/reckless_life/feed.xml" rel="self" />
     <link href="https://pranayga.github.io/reckless_life" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2026-03-28T19:24:59-07:00</updated>
     <author>
         <name>Julia Amatece Navidi</name>
     </author>
     <id>https://pranayga.github.io/reckless_life</id>
 
+    <entry>
+        <title>Post Number 1</title>
+        <author>
+            <name>Julia Amatece Navidi</name>
+        </author>
+        <link href="https://pranayga.github.io/reckless_life/post-number-1/"/>
+        <id>https://pranayga.github.io/reckless_life/post-number-1/</id>
+
+        <updated>2026-03-28T19:22:36-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test post. We shall see show this goes. Some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post. We shall see show this goes.</p>
+<figure class="post__image"><img loading="lazy" src="https://pranayga.github.io/reckless_life/media/posts/1/images.png" alt="Test picture" width="201" height="251" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://pranayga.github.io/reckless_life/media/posts/1/responsive/images-xs.png 300w ,https://pranayga.github.io/reckless_life/media/posts/1/responsive/images-sm.png 480w ,https://pranayga.github.io/reckless_life/media/posts/1/responsive/images-md.png 768w ,https://pranayga.github.io/reckless_life/media/posts/1/responsive/images-lg.png 1024w">
+<figcaption>This is a test picture.</figcaption>
+</figure>
+<p>Some more text.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
