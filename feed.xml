@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>recklesslife.uk</title>
-    <link href="https://pragarg.github.io/reckless_life/feed.xml" rel="self" />
-    <link href="https://pragarg.github.io/reckless_life" />
+    <link href="https://pranayga.github.io/reckless_life/feed.xml" rel="self" />
+    <link href="https://pranayga.github.io/reckless_life" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Julia Amatece Navidi</name>
     </author>
-    <id>https://pragarg.github.io/reckless_life</id>
+    <id>https://pranayga.github.io/reckless_life</id>
 
 </feed>
